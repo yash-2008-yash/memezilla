@@ -3,7 +3,7 @@
 **MemeZilla** is a fun little React app that fetches fresh memes from the Meme API and serves them straight to your screen. No effort required — just press one button.
 
 The app is live now!  
-Check out **MemeZilla** by clicking [here](https://yashlist.vercel.app/).
+Check out **MemeZilla** by clicking [here](https://memezilla-by-yashwanth-m.vercel.app/).
 
 ![App Preview](./src/assets/app_preview.png)
 
