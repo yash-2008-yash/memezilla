@@ -10,7 +10,7 @@ const Navbar = () => {
 
       {/* GitHub Repository Link */}
       <a href="https://github.com/yash-2008-yash/memezilla" target="_blank">
-        <img src="public/github.png" alt="" />
+        <img src="/github.png" alt="" />
       </a>
 
     </div>
